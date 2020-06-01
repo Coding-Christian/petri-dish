@@ -1,0 +1,15 @@
+#universe {
+  position: relative;
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+  margin: 100px auto;
+}
+
+.thing {
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  background-color: #000000;
+  transition: all 0.5s ease-in-out;
+}
